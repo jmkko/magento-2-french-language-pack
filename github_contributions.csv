@@ -10284,3 +10284,6 @@ PENDING,Pending
 CANCELED,Canceled
 IN_REVIEW,"In review"
 "System Messages","Messages système"
+"Go To Cart","Aller au Panier",module,MGS_Amp
+"Filter by %1","Filtrer par %1",module,MGS_Amp
+"Sale Products","Produits en Promotion",module,MGS_Mpanel
